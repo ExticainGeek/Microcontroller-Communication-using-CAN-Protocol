@@ -1,5 +1,3 @@
-// CAN Receive Example
-//
 
 #include <mcp_can.h>
 #include <SPI.h>
